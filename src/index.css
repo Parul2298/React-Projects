@@ -1,0 +1,39 @@
+.card_img{
+  /* width: 40%;
+  height: 30%px; */
+  border-radius: 5px 5px 0 0;
+  object-fit: cover;
+  height: 350px;
+  
+}
+.card_info{
+  margin-top: 30px;
+}
+
+.card_category{
+text-align: center;
+margin: 30px 60px;
+}
+
+.cards{
+  float: left;
+  padding: 0 50px;
+}
+
+* {
+  box-sizing: border-box;
+ 
+}
+
+.card{
+  text-align: center;
+  background-color:rgb(228, 210, 210);
+  margin-top: 50px;
+  margin-left: 80px; 
+  border-radius: 7px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+
+}
